@@ -1,5 +1,5 @@
----
-items:
+a game that functions with data mining, crypto currency---
+items:app that folks can invest in...
  - aseprite/aseprite/
  - piskelapp/piskel/
  - jvalen/pixel-art-react/
